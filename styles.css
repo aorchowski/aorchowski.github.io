@@ -1,13 +1,13 @@
 body {
-    background-color: #ffffff;
+    background-color: whitesmoke;
     margin: 0px;
     padding: 0px;
 }
 
 nav {
     box-sizing: border-box;
-    background-color: #ffffff;
-    border-bottom: 1px solid #dddddd;
+    background-color: white;
+    border-bottom: 1px solid white;
     left: 0px;
     overflow-y: auto;
     padding: 30px;
@@ -24,7 +24,7 @@ ul {
 }
 
 nav a {
-    color: #736B92;
+    color: blue;
     display: inline-block;
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
@@ -37,9 +37,5 @@ nav a {
 
 nav a:hover {
     color: darkblue;
-    color: black;
 }
 
-nav a:hover {
-    color: skyblue;
-}
