@@ -16,16 +16,22 @@ nav {
     top: 0px;
     width: 100%;
     z-index: 999;
+    display: inline;
 }
 
-ul {
+nav ul {
     margin: 0px;
     padding: 0px;
+    display: inline;
 }
 
-nav a {
+nav ul li {
+    list-style-type: none;
+    display: inline;
+}
+
+nav ul li a {
     color: blue;
-    display: inline-block;
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
     font-weight: 300;
@@ -35,7 +41,7 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover {
+nav ul li a:hover {
     color: darkblue;
 }
 
