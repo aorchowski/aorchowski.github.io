@@ -1,0 +1,7 @@
+Colors
+https://color.cloudflare.design/
+
+Parent Color(body): #0C2231
+Color: #D0EDF1
+Background(boxes): #1F567A
+Border: #7CB7DE
