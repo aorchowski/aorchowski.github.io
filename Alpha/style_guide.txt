@@ -5,3 +5,11 @@ Parent Color(body): #0C2231
 Color: #D0EDF1
 Background(boxes): #1F567A
 Border: #7CB7DE
+
+Fonts
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+CSS Rule:
+font-family: 'Roboto', sans-serif;
